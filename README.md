@@ -43,7 +43,7 @@ Metody uczenia:
 	• sieci neuronowe (alg. propagacji wstecznej)
 	• dowolna inna po uzgodnieniu z prowadzącym zajęcia
 
-	Traktor podejmuje decyzje co do upraw w danym sezonie, 'symuluje' cały sezon (w ramach możliwości stara się utrzymywać wszystkie rośliny podlane, nawiezione i zebrane w terminie), ostatecznie ocenia on swoją strategię na podstawie zysków które osiągnął (zarówno w postaci statystyk - ile czego zebrał, a później przeliczone na jednolitą walutę - 'pieniądze').
+Traktor podejmuje decyzje co do upraw w danym sezonie, 'symuluje' cały sezon (w ramach możliwości stara się utrzymywać wszystkie rośliny podlane, nawiezione i zebrane w terminie), ostatecznie ocenia on swoją strategię na podstawie zysków które osiągnął (zarówno w postaci statystyk - ile czego zebrał, a później przeliczone na jednolitą walutę - 'pieniądze').
 	
 	Każdy członek zespołu implementuje jedną z metod uczenia próbując rozwiązać ten problem, i jest oceniany w ramach:
 
