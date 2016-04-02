@@ -45,11 +45,11 @@ Metody uczenia:
 
 Traktor podejmuje decyzje co do upraw w danym sezonie, 'symuluje' cały sezon (w ramach możliwości stara się utrzymywać wszystkie rośliny podlane, nawiezione i zebrane w terminie), ostatecznie ocenia on swoją strategię na podstawie zysków które osiągnął (zarówno w postaci statystyk - ile czego zebrał, a później przeliczone na jednolitą walutę - 'pieniądze').
 	
-	Każdy członek zespołu implementuje jedną z metod uczenia próbując rozwiązać ten problem, i jest oceniany w ramach:
+Każdy członek zespołu implementuje jedną z metod uczenia próbując rozwiązać ten problem, i jest oceniany w ramach:
 
-	Podprojekt (indywidualnie)
+Podprojekt (indywidualnie)
 		– Przygotowanie danych wejściowych/zbioru treningowego i testowego
 		– Poprawność implementacji/integracji opracowanej metody w projekcie
 		– Pełność i poprawność omówienia tematu i przygotowanego raportu
 		
-	Odpowiednia reprezentacja danych i odpowiednie napisanie / zrozumienie części wspólnej przez każdego członka zespołu jest kluczowe do sprawnej pracy - sensowniej rozwiazać problem raz w części wspólnej niż wielokrotnie pisać to samo.
+Odpowiednia reprezentacja danych i odpowiednie napisanie / zrozumienie części wspólnej przez każdego członka zespołu jest kluczowe do sprawnej pracy - sensowniej rozwiazać problem raz w części wspólnej niż wielokrotnie pisać to samo.
