@@ -1,0 +1,12 @@
+*.obj
+debug/moc_scene.cpp
+debug/moc_snake.cpp
+debug/moc_action.cpp
+debug/moc_drawable.cpp
+*.exe
+debug/moc_farm.cpp
+debug/moc_mainwindow.cpp
+debug/moc_farmnode.cpp
+debug/qrc_images.cpp
+debug/Snek.ilk
+debug/Snek.pdb

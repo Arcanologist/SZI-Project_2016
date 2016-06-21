@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>field.png</file>
+        <file>pear.png</file>
+        <file>plum.png</file>
+        <file>snakebody.png</file>
+        <file>snakehead.png</file>
+        <file>wall.png</file>
+        <file>reversefruit.png</file>
+        <file>superfruit.png</file>
+        <file>dirdown.png</file>
+        <file>dirleft.png</file>
+        <file>dirright.png</file>
+        <file>dirup.png</file>
+        <file>puddle.png</file>
+        <file>fence.png</file>
+        <file>farm.png</file>
+        <file>farmCritical.png</file>
+        <file>farmExcellent.png</file>
+        <file>farmKukurydza.png</file>
+        <file>farmNormal.png</file>
+        <file>farmPszenica.png</file>
+        <file>farmZyto.png</file>
+        <file>farmSlonecznik.png</file>
+        <file>bug.png</file>
+        <file>bugcured.png</file>
+    </qresource>
+</RCC>
